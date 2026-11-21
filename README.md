@@ -35,6 +35,8 @@ Sir, you’re super! You are super cool. Thank you for guiding us in school. I h
 
 ### Signatures
 
+<img width="134" height="97" alt="Signature k" src="https://github.com/user-attachments/assets/4a298f00-95c7-415a-93cf-cd3af40fa50c" />
+
 Cataluña, Rhian Zabella
 
 Lu, Avery Beatrice
