@@ -28,7 +28,7 @@ Describe the long term outcomes of your project followed by a couple of objectiv
 
 - Objective 1: To promote environmental awareness and responsibility among community members by showing users how their transportation choices contribute to their individual and collective carbon footprints
 - Objective 2: Lower carbon footprint in global cities by providing an emission baseline for cities, communities, and individuals to strive to
-- Objective n: Provide accessible education regarding carbon footprints and the overflow of emissions in local communities, readily available for any member of the community
+- Objective 3: Provide accessible education regarding carbon footprints and the overflow of emissions in local communities, readily available for any member of the community
 
 ### Message for Sir Roy
 Sir, you’re super! You are super cool. Thank you for guiding us in school. I hope you well, because seeing you makes us want to ring a very cool bell.
