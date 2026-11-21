@@ -20,7 +20,8 @@ This website allows users to see how their transportation choices affect their c
 
 **Class Diagram:**
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+![Sample Diagram](<img width="1632" height="1214" alt="image" src="https://github.com/user-attachments/assets/afd44aec-43a7-468b-a325-53d308a59678" />
+)
 
 ### Goals:
 
