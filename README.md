@@ -2,21 +2,21 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
+### Project Title or Name of the Application	: Eco^2Motion
+### Section			   	      : 9-Potassium
+### Group Members			    : Cataluña, Rhian Zabella; Lu, Avery Beatrice; Mallari, Phoebe Faith
+### Date (Proposal Date)  : Nov 11, 2026
+
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+Our project intends to create an interactive website that will help citizens understand their effect on the environment and their community. 
 
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+It will have a database of different cities, which will allow users to select their location and input their information about the transportation they use. Users will be able to choose from a list of modes of transportation, such as cars, motorcycles, public transportation, bikes, and electric bikes. For those who use vehicles, they will also be able to select the vehicle’s brand and model (e.g. Toyota Innova) for a more specific estimation of their carbon footprint. They will also provide other necessary information like travel distance and how frequently they use their chosen mode of transportation.
 
-- Include the description as well of your target demographics as the user of your application. 
+After many users from different cities input their carbon footprint, the software will then sum the footprints of each resident of each city to determine the total carbon footprint of each city. From there, the software will determine if each city must implement programs to lower the total carbon emissions, and also give recommendations to help lower emissions.
 
-- The description is then followed by the class diagram, depicting clearly what was described.
+This website allows users to see how their transportation choices affect their community, compare the environmental impact of different cities, and identify areas that need changes and improvement.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
