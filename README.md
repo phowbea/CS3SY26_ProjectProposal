@@ -18,7 +18,7 @@ After many users from different cities input their carbon footprint, the softwar
 
 This website allows users to see how their transportation choices affect their community, compare the environmental impact of different cities, and identify areas that need changes and improvement.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+**Class Diagram:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
@@ -26,8 +26,13 @@ This website allows users to see how their transportation choices affect their c
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: To promote environmental awareness and responsibility among community members by showing users how their transportation choices contribute to their individual and collective carbon footprints
+- Objective 2: Lower carbon footprint in global cities by providing an emission baseline for cities, communities, and individuals to strive to
+- Objective n: Provide accessible education regarding carbon footprints and the overflow of emissions in local communities, readily available for any member of the community
+
+### Message for Sir Roy
+Sir, you’re super! You are super cool. Thank you for guiding us in school. I hope you well, because seeing you makes us want to ring a very cool bell.
+
+### Signatures
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
