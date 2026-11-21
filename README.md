@@ -35,4 +35,11 @@ Sir, you’re super! You are super cool. Thank you for guiding us in school. I h
 
 ### Signatures
 
+Cataluña, Rhian Zabella
+
+Lu, Avery Beatrice
+
+<img width="563" height="487" alt="0 (2)" src="https://github.com/user-attachments/assets/39ee505a-bcc0-4fc0-a091-ae6c608e243d" />
+Mallari, Phoebe Faith
+
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
