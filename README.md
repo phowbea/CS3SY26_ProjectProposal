@@ -39,6 +39,8 @@ Sir, you’re super! You are super cool. Thank you for guiding us in school. I h
 
 Cataluña, Rhian Zabella
 
+<img width="334" height="146" alt="image" src="https://github.com/user-attachments/assets/5b7453ed-dbbf-49eb-bb09-a98827bda4a4" />
+
 Lu, Avery Beatrice
 
 <img width="112" height="97" alt="0 (2)" src="https://github.com/user-attachments/assets/39ee505a-bcc0-4fc0-a091-ae6c608e243d" />
